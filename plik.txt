@@ -1,1 +1,2 @@
 main 	16:20 18.01.2024 	Pierwsza linijka kodu 
+main 16:48 18.01.2024 		Druga linijka kodu 
